@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.eip"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "microservice",
+    "baseName": "EIP",
+    "packageName": "com.eip",
+    "packageFolder": "com/eip",
+    "serverPort": "8082",
+    "authenticationType": "uaa",
+    "uaaBaseName": "paraamarshAuth",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZWRmMTQzMTJjNzk0ZThjOWNmNTRkNWVjZmI4ZjAzZjE4YjU2NTFkYzYwMTRmYWEyZjU3NTQ2MGZiMjg4ZWI1M2FhZWU0OTg4MmViZWFkOGFkNmU4OTVkYjJkZDA2MDg2MzQyNWUzOTU4N2IwMTIxNWI1ZDJkZWY4NDc2ZjQxODQ=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
